@@ -7,3 +7,5 @@ this repository contains practice of probability theory and mathematical statist
 4. Normal and uniform distrigution, the Central Limit Theorem
 5. Statistical tests algorithm, p-value, confidence intervals
 6. Covariance, Pearson correlation coefficient
+7. Linear regression coefficients. A/B-testing
+
