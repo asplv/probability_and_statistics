@@ -8,4 +8,5 @@ this repository contains practice of probability theory and mathematical statist
 5. Statistical tests algorithm, p-value, confidence intervals
 6. Covariance, Pearson correlation coefficient
 7. Linear regression coefficients. A/B-testing
+8. Two-way ANOVA
 
